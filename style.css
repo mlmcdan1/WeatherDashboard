@@ -20,3 +20,8 @@ h3{
 span{
     font-size: 1em;
 }
+
+li:hover{
+    background-color: lightslategray;
+    text-decoration: underline;
+}
