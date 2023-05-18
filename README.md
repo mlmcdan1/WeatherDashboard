@@ -7,4 +7,4 @@ In challenge 6 I was able to practice using a weather api to view weather for th
 Here's a screenshot: ![weather](weather.png)
 
 
-Deployable Link: https://mlmcdan1.github.io/Challenge6/
+Deployable Link: https://mlmcdan1.github.io/WeatherDashboard/
